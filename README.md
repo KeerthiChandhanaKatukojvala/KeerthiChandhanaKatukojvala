@@ -47,7 +47,7 @@
 
 #### 📫 How to reach me
 - **Email:** [keerthchandhana83@gmail.com](mailto:keerthchandhana83@gmail.com)
-- **LinkedIn:** [linkedin.com/in/keerthi](https://linkedin.com/in/keerthi)
+- **LinkedIn:** [linkedin.com/in/keerthi](linkedin.com/in/keerthi-chandhana-katukojvala)
 - **GitHub:** [github.com/KeerthiChandhanaKatukojvala](https://github.com/KeerthiChandhanaKatukojvala)
 
 ---
